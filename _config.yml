@@ -21,7 +21,7 @@
 title: Hersh's Blog
 email: hershkumar13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Me writing about random stuff like project writeups and workflow settings.
+  Interesting topics in quantum computation, class notes, project writeups, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "hershkumar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hershkumar13
