@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hersh Kumar
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th November 2002
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table

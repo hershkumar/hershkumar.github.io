@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Hersh Kumar and I am an undergraduate student at the University of Maryland, studying Physics and Computer Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests mainly lie in computational physics, lattice QCD, and quantum computation. I am currently working on the application of neural networks to the variational Monte Carlo method, for the approximation of ground state energies of quantum many-body systems. In the past, I have worked on the generation of quantum circuits for specific Hamiltonian models, for use in simulation of lattice gauge theories. More specifically, I worked on generating group operation quantum circuits for $$A(6)$$, as well as $$S(1080)$$, and more recently on the Horn model, which was published in Physical Review D, [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.094504).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For personal projects, I have written [csolver](https://github.com/hershkumar/csolver), a small order arbitrary controlled NOT gate circuit finder, [khaldun](https://github.com/hershkumar/khaldun), a tool for running markdown code blocks, and am currently working on [tlon](https://github.com/hershkumar/tlon), a Verlet integration physics engine. If you have any questions or find one of my (many) typos, feel free to reach out to me at `hershkumar13@gmail.com`.
