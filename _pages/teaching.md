@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: 
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### Undergraduate Teaching Assistant
+As an undergraduate teaching assistant for Professor Christopher Lobb, I graded homeworks, held office hours, answered student questions, and led weekly discussion sections. 
+These courses were taught at the University of Maryland, College Park.
+- **Statistical Mechanics (PHYS404)** - Fall 2023 
+- **Quantum Mechanics II (PHYS402)** - Spring 2023
+- **Statistical Mechanics (PHYS404)** - Fall 2022
