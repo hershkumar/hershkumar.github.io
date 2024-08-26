@@ -6,6 +6,10 @@ description:
 nav: true
 nav_order: 6
 ---
+### Graduate Teaching Assistant
+I grade homeworks, hold office hours, and lead weekly tutorial sections.
+- **Statistical Mechanics (PHYS404)** - Fall 2024
+- **Quantum Mechanics II (PHYS402)** - Fall 2024
 
 ### Undergraduate Teaching Assistant
 As an undergraduate teaching assistant for Professor Christopher Lobb, I graded homeworks, held office hours, answered student questions, and led weekly discussion sections. 

@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Hersh Kumar and I am an incoming Physics PhD student at the University of Maryland.
+Hello! My name is Hersh Kumar and I am a first year Physics graduate student at the University of Maryland.
 
 My interests mainly lie in computational physics, nuclear theory, quantum many-body systems, and quantum computation. I am currently working on the application of neural networks to the variational Monte Carlo method, for the approximation of ground state energies of quantum many-body systems. A paper regarding bosonic systems has been published in Physical Review C, [here](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.034004).
 
