@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 ### Graduate Teaching Assistant
-I grade homeworks, hold office hours, and lead weekly tutorial sections.
+I grade homeworks, hold office hours, lead weekly tutorial sections, and occasionally give lectures.
 - **Statistical Mechanics (PHYS404)** - Fall 2024
 - **Quantum Mechanics II (PHYS402)** - Fall 2024
 
