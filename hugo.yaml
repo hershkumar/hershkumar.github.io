@@ -1,0 +1,49 @@
+baseurl: "https://hershkumar.github.io/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "Hersh Kumar"
+theme: "xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Notes
+      url: "notes/"
+      weight: 2
+#    - name: Tags
+#      url: "tags/"
+#      weight: 4
+#    - name: Subscribe
+#      url: "index.xml"
+
+params:
+  description: ""
+  footer: "&copy; Hersh Kumar {Year} | [Github](https://github.com/hershkumar) | [Google Scholar](https://scholar.google.com/citations?user=6sbBndMAAAAJ&hl=en)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)

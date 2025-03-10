@@ -1,0 +1,5 @@
+baseURL = 'https://hershkumar.github.io/'
+languageCode = 'en-us'
+title = 'Hersh Kumar'
+theme = 'xmin'
+
