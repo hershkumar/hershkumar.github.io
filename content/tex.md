@@ -3,10 +3,10 @@ title: LaTeX
 math: true
 ---
 ## Preface
-I take my notes in real-time during lectures so most of my workflow is oriented towards maximizing the speed at which I can typeset. Most of the speed comes from hours and hours of practice in lecture, but a smooth editing setup, as well as a ton of personalized macros allow for many of the painful points of \(\LaTeX\) to be handled automatically.
+I take my notes in real-time during lectures so most of my workflow is oriented towards maximizing the speed at which I can typeset. Most of the speed comes from hours and hours of practice in lecture[^1], but a smooth editing setup, as well as a ton of personalized macros allow for many of the painful points of \(\LaTeX\) to be handled automatically.
 
 ## Editor/PDF Viewer
-To begin, I'll briefly cover the editor and pdf viewer I use. In order to reduce the reliance on any mouse usage, I use `neovim` for my editing, and `zathura` for my viewer. `zathura`'s vim-like keybindings mean that I can swap between my editor and my pdf and navigate seamlessly[^1]. Aside from the keybindings, there's nothing inherently special about `zathura` for TeX pdfs, I've previously used [Skim](https://skim-app.sourceforge.io/), since it also had automatic pdf reloading. 
+To begin, I'll briefly cover the editor and pdf viewer I use. In order to reduce the reliance on any mouse usage, I use `neovim` for my editing, and `zathura` for my viewer. `zathura`'s vim-like keybindings mean that I can swap between my editor and my pdf and navigate seamlessly[^2]. Aside from the keybindings, there's nothing inherently special about `zathura` for TeX pdfs, I've previously used [Skim](https://skim-app.sourceforge.io/), since it also had automatic pdf reloading. 
 
 | ![test](../img/latex_overview.png) | 
 |:--:| 
@@ -110,6 +110,9 @@ My setup is cobbled together from bits and pieces of multiple live-TeXing config
 - [Gilles Castel](https://castel.dev/post/lecture-notes-1/), from whom I stole many a snippet wholesale.
 - [Elijan Mastnak](https://ejmastnak.com/tutorials/vim-latex/ultisnips/), who has an in-depth tutorial on using UltiSnips for \(\LaTeX\).
 
-My (unsolicited) advice for getting up to speed in lectures is to practice, I've been live-TeXing my notes for ~7 years, and it took me time to build up the muscle memory and ability to both focus on the lecture being given, as well as typesetting the content of the lecture.
+My (unsolicited) advice for getting up to speed in lectures is to **practice**, I've been live-TeXing my notes for ~7 years, and it took me time to build up the muscle memory and ability to both focus on the lecture being given, as well as typesetting the content of the lecture.
 
-[^1]: I use [yabai](https://github.com/koekeishiya/yabai) for tiling window management on macOS, and [skhd](https://github.com/koekeishiya/skhd) to quickly switch between `kitty` and `zathura`.
+
+[^1]: Comparing my notes from the [beginning](/notes/phys273.pdf) of my undergrad to those in [graduate school](/notes/phys611.pdf), one can see that my formatting and ability to include more of the contents of the derivations and spoken conceptual content has dramatically improved. 
+[^2]: I use [yabai](https://github.com/koekeishiya/yabai) for tiling window management on macOS, and [skhd](https://github.com/koekeishiya/skhd) to quickly switch between `kitty` and `zathura`.
+
