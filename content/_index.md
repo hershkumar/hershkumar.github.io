@@ -2,10 +2,10 @@
 title: About Me
 math: true
 ---
+<img src="front_facing_pfp.png" style="max-width:20%;min-width:40px;float:right;border-radius: 50%;" alt="thats me!"/>
+
 # Hersh Kumar
 
-<img src="https://metal-exposure.com/wp-content/uploads/lorna-shore.jpg" style="max-width:15%;min-width:40px;float:right;" alt="thats me!"/>
-~[??](https://metal-exposure.com/wp-content/uploads/lorna-shore.jpg)
 ## About Me
 Hello! My name is Hersh Kumar and I am a first year Physics graduate student at the University of Maryland.
 
