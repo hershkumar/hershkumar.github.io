@@ -22,4 +22,4 @@ While the total number of courses I've taken notes for is much larger than shown
 | PHYS373   | Math Methods for Physics 2 |Spring 2021 | Evan Berkowitz |[phys373.pdf](/notes/phys373.pdf)|
 | PHYS273   | Waves |Fall 2020| Hassan Jawahery  |[phys273.pdf](/notes/phys273.pdf)|
 
-Please note that there may be some (severe) typos, so if in doubt about a formula or equation, please reference textbook.
+Please note that there may be some (severe) typos, so if in doubt about a formula or equation, please reference a textbook.
