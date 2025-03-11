@@ -9,6 +9,13 @@ math: true
 ## About Me
 Hello! My name is Hersh Kumar and I am a first year Physics graduate student at the University of Maryland.
 
-My interests mainly lie in quantum computation, nuclear theory, and computational physics. I am currently working on the digital quantum simulation of scattering processes. In the past, I have worked on the generation of quantum circuits for specific Hamiltonian models, for use in simulation of lattice gauge theories. More specifically, I worked on generating group operation quantum circuits for the alternating group \(A(6)\), as well as \(S(1080)\), and more recently on the Horn model, which was published in Physical Review D, [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.094504). I have also worked on the application of neural networks to the variational Monte Carlo method, for the approximation of ground state energies of quantum many-body systems. A paper regarding bosonic systems has been published in Physical Review C, [here](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.034004), and a preprint on fermionic systems can be found on the arXiv, [here](https://arxiv.org/abs/2410.17383).
+My interests mainly lie in quantum computation, nuclear theory, and computational physics. I am currently working on the digital quantum simulation of scattering processes. I have previously worked on the use of neural networks as variational ansatze for many-body bosonic and fermionic systems, as well as digital quantum simulation of lattice gauge theories.
+
+### Selected Papers
+- We propose neural network variational ansatze for bosonic and fermionic many-body quantum systems, and apply our networks to several analytic and non-analytic models:
+    - [Neural network solutions of bosonic quantum systems in one dimension](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.034004) 
+    - [A Machine Learning Approach to Trapped Many-Fermion Systems](https://arxiv.org/abs/2410.17383)
+- We produce an estimate of the entangling gate cost for the simulation of lattice gauge theories on quantum computers: 
+    - [How many quantum gates do gauge theories require?](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.094504)
 
 If you have any questions, feel free to reach out to me at `hekumar@umd.edu`.
