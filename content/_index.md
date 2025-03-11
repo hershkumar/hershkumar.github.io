@@ -1,5 +1,6 @@
 ---
 title: About Me
+math: true
 ---
 # Hersh Kumar
 ## About Me
