@@ -1,5 +1,5 @@
 ---
-title: Live LaTeX Typesetting
+title: Live \(\LaTeX\) Typesetting
 math: true
 ---
 ## Preface
