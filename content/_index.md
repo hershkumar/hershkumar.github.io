@@ -2,7 +2,7 @@
 title: About Me
 math: true
 ---
-<img src="front_facing_pfp.png" style="max-width:20%;min-width:40px;float:right;border-radius: 50%;" alt="thats me!"/>
+<img src="img/front_facing_pfp.png" style="max-width:20%;min-width:40px;float:right;border-radius: 50%;" alt="thats me!"/>
 
 # Hersh Kumar
 
