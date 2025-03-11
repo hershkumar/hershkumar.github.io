@@ -3,6 +3,7 @@ title: About Me
 math: true
 ---
 # Hersh Kumar
+<img src="front_facing_pfp.png" style="max-width:15%;min-width:40px;float:right;" alt="thats me!" />
 ## About Me
 Hello! My name is Hersh Kumar and I am a first year Physics graduate student at the University of Maryland.
 
