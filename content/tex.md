@@ -10,7 +10,7 @@ To begin, I'll briefly cover the editor and pdf viewer I use. In order to reduce
 
 | ![test](../img/latex_overview.png) | 
 |:--:| 
-| *An example instance of my \(\LaTeX\) environment, neovim open on the left, zathura on the right, and my compilation script in the bottom right.* |
+| *An example instance of my \(\LaTeX\) environment, neovim open on the left, zathura on the right, and my compilation script in the bottom left.* |
 
 
 In terms of neovim packages, I use [vim-conceal](https://github.com/khzaw/vim-conceal) and [tex-conceal](https://github.com/KeitaNakamura/tex-conceal.vim) to make the source file slightly easier to read at a glance. I also particularly like [hop.nvim](https://github.com/hadronized/hop.nvim), for file navigation. [vimtex](https://github.com/lervag/vimtex) is also a major part of my setup, allowing me to open a `.tex` file in neovim and open its corresponding `.pdf` file using `\lv`. It also has support for continuous compilation of the `.tex` source within neovim, but I prefer to have a separate terminal window running the compilation.
