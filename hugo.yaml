@@ -28,6 +28,7 @@ menu:
 params:
   description: ""
   footer: "&copy; Hersh Kumar {Year} | [Github](https://github.com/hershkumar) | [Google Scholar](https://scholar.google.com/citations?user=6sbBndMAAAAJ&hl=en)"
+  math: true
 
 markup:
   goldmark:
@@ -43,5 +44,3 @@ markup:
           - - \(
             - \)
         enable: true
-params:
-  math: true
