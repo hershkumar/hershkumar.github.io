@@ -13,10 +13,10 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: Home 
       url: ""
       weight: 1
-    - name: Notes
+    - name: Notes 
       url: "notes/"
       weight: 2
 #    - name: Tags
