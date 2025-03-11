@@ -28,17 +28,11 @@ menu:
 params:
   description: ""
   footer: "&copy; Hersh Kumar {Year} | [Github](https://github.com/hershkumar) | [Google Scholar](https://scholar.google.com/citations?user=6sbBndMAAAAJ&hl=en)"
-  math: true
 
 markup:
-  highlight:
-    codeFences: false
   goldmark:
-    renderer:
-      unsafe: true
     extensions:
       passthrough:
-        enable: true
         delimiters:
           block:
           - - \[
@@ -48,3 +42,6 @@ markup:
           inline:
           - - \(
             - \)
+        enable: true
+params:
+  math: true
