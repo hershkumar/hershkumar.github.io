@@ -4,7 +4,3 @@
 [submodule "themes/xmin"]
 	path = themes/xmin
 	url = https://github.com/yihui/hugo-xmin
-
-[submodule "assets/notes"]
-	path = assets/notes
-	url = https://github.com/hershkumar/notes
