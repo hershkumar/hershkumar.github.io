@@ -4,6 +4,3 @@
 [submodule "themes/xmin"]
 	path = themes/xmin
 	url = https://github.com/yihui/hugo-xmin
-[submodule "static/notes"]
-	path = static/notes
-	url = https://github.com/hershkumar/notes
