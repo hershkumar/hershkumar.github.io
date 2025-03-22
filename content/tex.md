@@ -114,5 +114,5 @@ My (unsolicited) advice for getting up to speed in lectures is to **practice**, 
 
 
 [^1]: Comparing my notes from the [beginning](/notes/phys273.pdf) of my undergrad to those in [graduate school](/notes/phys611.pdf), one can see that my formatting and ability to include more of the contents of the derivations and spoken conceptual content has dramatically improved. 
-[^2]: I use [yabai](https://github.com/koekeishiya/yabai) for tiling window management on macOS, and [skhd](https://github.com/koekeishiya/skhd) to quickly switch between `kitty` and `zathura`.
+[^2]: I use [yabai](https://github.com/koekeishiya/yabai) for tiling window management on macOS, and [skhd](https://github.com/koekeishiya/skhd) to quickly switch between `kitty` and `zathura`. On my Linux laptop (arch btw), I use Hyprland to tile my windows.
 
