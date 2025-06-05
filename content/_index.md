@@ -7,9 +7,9 @@ math: true
 # Hersh Kumar
 
 ## About Me
-Hello! My name is Hersh Kumar and I am a first year Physics graduate student at the University of Maryland.
+Hello! My name is Hersh Kumar and I am a second year Physics graduate student at the University of Maryland.
 
-My interests mainly lie in quantum computation, nuclear theory, and computational physics. I am currently working on the digital quantum simulation of scattering processes. I have previously worked on the use of neural networks as variational ansatze for many-body bosonic and fermionic systems, as well as digital quantum simulation of lattice gauge theories.
+My interests mainly lie in quantum computation, nuclear theory, and computational physics. I am currently working on the digital quantum simulation of scattering processes. I have previously worked on the use of neural networks as variational ansatze for many-body bosonic and fermionic systems, as well as on the digital quantum simulation of lattice gauge theories.
 
 ### Selected Papers
 - We propose neural network variational ansatze for bosonic and fermionic many-body quantum systems, and apply our networks to several analytic and non-analytic models:
