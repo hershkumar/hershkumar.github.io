@@ -7,6 +7,7 @@ While the total number of courses I've taken notes for is much larger than shown
 
 | Course    | Topic | Semester | Professor | Link |
 |-----------|-------|----------|-----------| -----|
+| PHYS624   | QFT I | Fall 2025| Zackaria Chacko |[phys624.pdf](/notes/phys624.pdf)| 
 | PHYS611   | Electrodynamics | Spring 2025| Sasha Phillipov |[phys611.pdf](/notes/phys611.pdf)| 
 | PHYS610   | Complex Analysis, Classical Mechanics, Electrostatics  | Fall 2024 | Zackaria Chacko | [phys610.pdf](/notes/phys610.pdf)| 
 | PHYS613   | Symmetry, Approximation Methods, Scattering | Spring 2024 | Xiangdong Ji| [phys613.pdf](/notes/phys613.pdf)| 
