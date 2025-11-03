@@ -18,4 +18,4 @@ My interests mainly lie in quantum computation, nuclear theory, and computationa
 - We produce an estimate of the entangling gate cost for the simulation of lattice gauge theories on quantum computers: 
     - [How many quantum gates do gauge theories require?](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.094504)
 
-If you have any questions, feel free to reach out to me at `hekumar@umd.edu`.
+If you have any questions, feel free to reach out to me at `hekumar<at>umd.edu`.
