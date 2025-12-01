@@ -22,8 +22,8 @@ menu:
     - name: TeX
       url: "tex/"
       weight: 4
-#    - name: Subscribe
-#      url: "index.xml"
+#    - name: Reading List
+#      url: "books/"
 
 params:
   description: ""
