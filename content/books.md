@@ -9,3 +9,7 @@ title: Reading List
 
 ### Up Next:
 - 
+
+
+### Finished:
+- 
