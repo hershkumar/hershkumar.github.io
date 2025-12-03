@@ -8,7 +8,7 @@ title: Reading List
 
 
 ### Up Next:
-- 
+-  Nicomachean Ethics, Aristotle
 
 
 ### Finished:
