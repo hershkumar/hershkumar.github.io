@@ -7,6 +7,7 @@ While the total number of courses I've taken notes for is much larger than shown
 
 | Course    | Topic | Semester | Professor | Link |
 |-----------|-------|----------|-----------| -----|
+| PHYS851   | QFT II | Spring 2026| Anson Hook |[phys851.pdf](/notes/phys851.pdf)| 
 | PHYS624   | QFT I | Fall 2025| Zackaria Chacko |[phys624.pdf](/notes/phys624.pdf)| 
 | PHYS611   | Electrodynamics | Spring 2025| Sasha Phillipov |[phys611.pdf](/notes/phys611.pdf)| 
 | PHYS610   | Complex Analysis, Classical Mechanics, Electrostatics  | Fall 2024 | Zackaria Chacko | [phys610.pdf](/notes/phys610.pdf)| 
