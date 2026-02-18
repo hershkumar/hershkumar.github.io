@@ -5,6 +5,7 @@ Over the years I've written up notes for some of the physics courses that I've t
 While the total number of courses I've taken notes for is much larger than shown below, these are the notes that I would consider helpful to someone taking a similar course, while others are disorganized, stop halfway (or earlier) in a course, or suffer from other flaws that I haven't bothered fixing. Also note that many of these courses are taught differently semester to semester, so they may be structured differently.
 
 
+
 | Course    | Topic | Semester | Professor | Link |
 |-----------|-------|----------|-----------| -----|
 | PHYS851   | QFT II | Spring 2026| Anson Hook |[phys851.pdf](/notes/phys851.pdf)| 
