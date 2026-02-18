@@ -19,9 +19,10 @@ menu:
     - name: Notes 
       url: "notes/"
       weight: 2
+    - name: Feynman Diagram Constructor
+      url: fd.hershkumar.com
     - name: TeX
       url: "tex/"
-      weight: 4
 #    - name: Reading List
 #      url: "books/"
 
