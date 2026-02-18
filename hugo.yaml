@@ -1,4 +1,5 @@
-baseurl: "https://hershkumar.github.io/"  # please update this to your actual URL
+baseurl: "https://hershkumar.com"  # please update this to your actual URL
+
 languageCode: "en-us"
 title: "Hersh Kumar"
 theme: "xmin"
@@ -20,7 +21,7 @@ menu:
       url: "notes/"
       weight: 2
     - name: Feynman Diagram Constructor
-      url: fd.hershkumar.com
+      url: "https://fd.hershkumar.com"
     - name: TeX
       url: "tex/"
 #    - name: Reading List
