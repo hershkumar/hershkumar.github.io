@@ -21,7 +21,7 @@ menu:
       url: "notes/"
       weight: 2
     - name: Feynman Diagram Constructor
-      url: "https://fd.hershkumar.com"
+      url: "https://fd.hershkumar.com/"
     - name: TeX
       url: "tex/"
 #    - name: Reading List
