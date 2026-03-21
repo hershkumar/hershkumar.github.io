@@ -13,7 +13,7 @@ While the total number of courses I've taken notes for is much larger than shown
 | PHYS611   | Electrodynamics | Spring 2025| Sasha Phillipov |[phys611.pdf](/notes/phys611.pdf)| 
 | PHYS610   | Complex Analysis, Classical Mechanics, Electrostatics  | Fall 2024 | Zackaria Chacko | [phys610.pdf](/notes/phys610.pdf)| 
 | PHYS613   | Symmetry, Approximation Methods, Scattering | Spring 2024 | Xiangdong Ji| [phys613.pdf](/notes/phys613.pdf)| 
-| PHYS612   | Quantum Mechanics, Statistical Mechanics | Fall 2023 | Tom Cohen | [phys612.pdf](/notes/phys612.pdf)|
+| PHYS612   | Quantum Mechanics, Statistical Mechanics | Fall 2023 | Tom Cohen | [phys612.pdf](/notes/phys612.pdf)/ [Tom's notes (transcribed)](/notes/phys612_tom.pdf)|
 | PHYS431   | Solid State Physics | Spring 2023 | Ichiro Takeuchi | [phys431.pdf](/notes/phys431.pdf) |
 | PHYS411   | Electricity and Magnetism | Fall 2022 | Xiangdong Ji |[phys411.pdf](/notes/phys411.pdf) |
 | PHYS410   | Classical Mechanics | Fall 2022 | Peter Shawhan | [phys410.pdf](/notes/phys410.pdf)|
