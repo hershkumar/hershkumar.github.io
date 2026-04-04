@@ -29,7 +29,7 @@ menu:
 
 params:
   description: ""
-  footer: "&copy; Hersh Kumar {Year} | [Github](https://github.com/hershkumar) | [Google Scholar](https://scholar.google.com/citations?user=6sbBndMAAAAJ&hl=en)"
+  footer: "&copy; Hersh Kumar {Year} | [Github](https://github.com/hershkumar) | [Google Scholar](https://scholar.google.com/citations?user=6sbBndMAAAAJ&hl=en) | [CV](https://hershkumar.com/misc/cv.pdf)"
   math: true
 
 markup:
